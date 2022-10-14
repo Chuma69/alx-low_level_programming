@@ -11,4 +11,4 @@ int main(void)
 	/*using puts to output myVar*/
 	puts(myVar);
 	return (0);
-}    
+}
