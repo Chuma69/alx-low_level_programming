@@ -10,5 +10,6 @@ int main(void)
 	char myVar[] = "\"Programming is like building a multilingual puzzle";
 	/*using puts to output myVar*/
 	puts(myVar);
+	
 	return (0);
 }    
