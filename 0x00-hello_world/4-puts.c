@@ -1,5 +1,4 @@
 #include <stdio.h>
-
 /**
  * main - Entry point
  *
@@ -11,6 +10,5 @@ int main(void)
 	char myVar[] = "\"Programming is like building a multilingual puzzle";
 	/*using puts to output myVar*/
 	puts(myVar);
-
-        return (0);
+	return (0);
 }    
